@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-主要分析內容包含：
+主要分析內容：
 
 1. Sentinel-2 NDVI 月平均時序分析
 2. 震前 / 震後 / 堰塞湖後 NDVI median composite
